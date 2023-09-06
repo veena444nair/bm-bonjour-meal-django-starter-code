@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-pizza-order",
+  "private_key_id": "53dd5f8637456b1425830bd566472f2771cbe23e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy1NKwK91PcOvR\neoHuDHPm422F49DPMPLnSMiawcXIUTBzhM00Ny+xM1cmiGlcSX2ER3NbG5cnvThM\nlzSc5NZxeBmGphXQL8NQT27FxTkKBdzWpGKejbhBMrqdIHrneJECjA27xcHdl4v+\n8/xzAoNQbWcYP+7/9/B9CXCXvg7IuikUsz62xP0lpFkmEnvoXvAAgohoPT8Zm0jV\nLuk5ClqX1PqmaPd5p09fCt97PYQIBFn+gGIoZIcacPr4XcBsz7Bk9lfsx82fqFlR\nMmRyjkJMcXZPOnCAxAHsU8o4WTjW5W84r9U7DMl1BByFXSWO2VOw9jXe6q04Qnr9\ni45NHuDtAgMBAAECggEAQbsA/9j3nOH0A4iEZlN0bGqukHZmgylKNuGlPmC3ykOx\nS9yFskoQgRDOWS7tjwrCFFNQ3q169xPRNDGlmH9yJL3QoBG+1ckggI3ZuN6fcwQp\noklEqGON1IUJW4SbOCY0IpwI1jo/Yiv4PItAgKNtUawMpzikp7fh0IueM2AbvgI1\nWxK7ybGoRHk6iKGhhRzzuF5V+Wg8RS6Ed0oCMtejx9io9JG44A9B6td0yVaEC1Oa\nMZf9ZXq7uMPhrF8L/Ate9+Iu8894mdD5kbhIzxjiSjC6tQDntVT89/luuMCbHw6E\ntJHEspF/3eSpHy7TqOY+His1b3cGtBAAxyITnkY0HwKBgQDiRPC/N+gaeG+KIOUh\n5KDgX6fTHKiCwmNQm9sScHlKoUvpurb/2qcv4oAldNf8y2B/Nzm+avr1ujVEBew6\nQR3VJrvcKeiyUafdF+ijS2WycDX5E/drSZIwoiwH0WmEnumUJXCwLyW82IC7yeXY\nfZhIk+KBINmM0EXjDUzSrjZSZwKBgQDKVDQpDsfdXeS5qRU/NEdGMRRIwnEZkjVt\nly3Ud9+5w4IaFZ5jAOIqFL6inWYy9RQQim6COfnFHaVMnc8nWfJzOVPbuNsd8qht\nW/OAaAQRgmiiw+ihpO0xVf10YkG7x0XJ0LKapuLiTJl+VNu3aKqGuQQLmrL1xI96\nQoDWpIbliwKBgQCDCMum4TiAA9kMVAp9u0pTRfIJtyH7P5mGOAwBPLNxPcGZpLCP\nsM97Up9Fkcn3Msw6QAAnvwqAvYpVT1zDS6x8IQdP89E3W0RsLIlj76kAUi1fhmmV\nbzDDC1eWW3bQ/7pjOd9tmJAxMewzVDPQUMOc3E+i2iRCgObIG46uv4bj5wKBgCsC\n84O27K4Wg8UkOKwTBQPa8yD0lO6Gsmz1snx0b08iTMoWxnDtgybG+i+/njY++2D4\nzL1KbdqFjtpWwe7vpCbyjO0swwf+yedVoNIvSo4eVvgjBZU3ZmUSjqrrKGYu2pso\njo9p4tmQxyCgEYVP7tBtDHsbC+hLPOUUtibrGvI5AoGAG8dMTaNFVZYLWrMd4dEO\n6LCArXwuiP7EwiTnKLzKSyLq4BVbZKoiD0pBmurSkyxNTFlsWVY2t5lWwGPp0O9b\nXXPHxQs5rWLwyCo5nr7vB6VADJnsukAWMLeoA16ISp43bh1y/HZKRNZ0NL9zqNXl\nfaSC6Lh1SPtjkEDOlnGUE48=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-pizza-order@appspot.gserviceaccount.com",
+  "client_id": "105783913934564559214",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-pizza-order%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
